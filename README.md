@@ -1,4 +1,4 @@
 # wokwi_mqtt_react-native
--- Simulations Sensor: WOKWI
--- Broker: MQTTX
--- Monitoring: React-Native ( Android )
+# Simulate Sensor: WOKWI
+# Broker: MQTTX
+# Monitor: Android Studio
